@@ -3,7 +3,6 @@
 ## Kullanılan Teknolojiler:
 1. Python Flask
 2. Mysql DBMS
-3. Font Awesome Free 5.10.0
 
 ## Kullanıma Hazırlama:
 1. DBMS Üzerinde "ring" isminde bir Veri Tabanı Oluşturun.
